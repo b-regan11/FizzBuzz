@@ -1,1 +1,3 @@
 # FizzBuzz
+## What is this project?
+The FizzBuzz program is a classic coding challenge that iterates through numbers from 1 to 100. For each number in this range, it checks if it's divisible by 3, 5, or both, by calculating the remainders of division by 3 and 5 using the modulo operator (%). If the remainder is 0 for both divisions, it prints "FizzBuzz". If the remainder is 0 only for the division by 3, it prints "Fizz". If the remainder is 0 only for the division by 5, it prints "Buzz". Otherwise, if none of these conditions are met, it simply prints the number itself. This program demonstrates a simple application of conditional logic and looping in Java to solve the FizzBuzz problem.
